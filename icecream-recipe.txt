@@ -1,0 +1,6 @@
+Ingredients:
+- Ice cream
+
+instructions:
+- Drive to grocery store
+- Buy ice cream
